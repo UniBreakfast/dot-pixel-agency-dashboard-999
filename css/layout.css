@@ -1,0 +1,6 @@
+body {
+  position: relative;
+  min-height: 1137px;
+  padding: 0 calc(50% - 800px);
+  overflow-x: hidden;
+}
