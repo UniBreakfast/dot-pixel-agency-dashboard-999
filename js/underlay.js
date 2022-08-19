@@ -5,6 +5,7 @@ const css = /* CSS */`
   body::before {
     position: absolute;
     top: 0;
+    max-width: 1600px;
     width: 100%;
     height: 100%;
     background: url(${path}) center 0 no-repeat;
